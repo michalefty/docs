@@ -1,6 +1,6 @@
 [
   {
-    "id": "raspberrypi",
+    "id": "raspberry-pi",
     "name": "Raspberry Pi 1, Zero, or Zero W",
     "arch": "armv6",
 		"bootMedia": "SD card",
@@ -10,7 +10,7 @@
     "icon": "/img/device/raspberry-pi.svg"
   },
 	{
-    "id": "raspberrypi2",
+    "id": "raspberry-pi2",
     "name": "Raspberry Pi 2",
     "arch": "armv7l",
 		"bootMedia": "SD card",
